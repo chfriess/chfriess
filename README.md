@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Chris!
+- 👀 I’m interested in computer-assisted endovascular interventions and automated ECG-diagnostic.
+- 🌱 I’m currently learning SLAM algorithms for catheter tracking!
+- 💞️ I’m looking to collaborate on all interesting projects connecting computer science and medicine!
+- 📫 Contact me here on github!
